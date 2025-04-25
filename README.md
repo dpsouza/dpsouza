@@ -6,4 +6,3 @@
 - 🌱 Estudo Python e SQL ...
 
 
--->
