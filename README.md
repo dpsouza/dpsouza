@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Daniel
+# Daniel
 
 **Business Intelligence Analyst**
 
